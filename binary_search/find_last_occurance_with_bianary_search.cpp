@@ -14,7 +14,7 @@ int lastOccurenceIndex(vector<int> v, int target)
         if (v[mid] == target)
         {
             ans = mid;
-            start = mid + 1;
+            start = mid + 1; 
         }
         else if (v[mid] > target)
         {
