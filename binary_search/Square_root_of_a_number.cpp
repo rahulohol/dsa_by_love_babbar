@@ -30,12 +30,12 @@ int target = x;
   // return ans;
   return ans;
 
-    };
+    }; 
 
 
 int main(){
 
-  int n=30;
+  int n=24;
   cout<<floorSqrt(n)<<endl;
 
     return 0;
