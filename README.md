@@ -1,4 +1,5 @@
 # dsa_by_love_babbar
 * Binary Search
 * Time Complexity
-* char and strings
+* Char and strings
+* Basic maths and pointers 
