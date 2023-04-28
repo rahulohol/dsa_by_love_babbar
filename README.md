@@ -5,7 +5,7 @@
 * Binary Search
 * Time Complexity
 * Char and strings
-* Basic maths and pointers
+* Basic maths and pointers.
 * Two pointers
 * Recursion
 * Binary search with recursion
