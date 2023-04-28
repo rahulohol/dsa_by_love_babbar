@@ -6,6 +6,6 @@
 * Time Complexity
 * Char and strings
 * Basic maths and pointers.
-* Two pointers
+* Two pointers.
 * Recursion
 * Binary search with recursion
