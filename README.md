@@ -8,4 +8,4 @@
 * Basic maths and pointers.
 * Two pointers.
 * Recursion
-* Binary search with recursion
+* Binary search with recursion 
